@@ -1,0 +1,18 @@
+Fotos de Unsplash (https://unsplash.com/license) — uso libre, sin atribución obligatoria.
+No se usan logos oficiales de las plataformas: solo fotos genéricas.
+archivo | foto | autor
+roblox.jpg | https://images.unsplash.com/photo-1554410637-1a8267402b57 | Kelly Sikkema
+fortnite.jpg | https://images.unsplash.com/photo-1548686304-89d188a80029 | Alex Haney
+minecraft.jpg | https://images.unsplash.com/photo-1597933471507-1ca5765185d8 | Thomas Park
+among-us.jpg | https://images.unsplash.com/photo-1603354351226-d82bd4a635a3 | Robo Wunderkind
+steam.jpg | https://images.unsplash.com/photo-1626218174358-7769486c4b79 | Resul Kaya
+discord.jpg | https://images.unsplash.com/photo-1534423861386-85a16f5d13fd | Sean Do
+tiktok.jpg | https://images.unsplash.com/photo-1758611973525-b5a86f468b5e | Vitaly Gariev
+instagram.jpg | https://images.unsplash.com/photo-1488509082528-cefbba5ad692 | Priscilla Du Preez
+whatsapp.jpg | https://images.unsplash.com/photo-1610548822783-33fb5cb0e3a8 | Dimitri Karastelev
+youtube.jpg | https://images.unsplash.com/photo-1654414884104-c6fc9a27ed35 | Shashank Verma
+celular.jpg | https://images.unsplash.com/photo-1592890288564-76628a30a657 | Jonas Leupe
+navegador.jpg | https://images.unsplash.com/photo-1541807084-5c52b6b3adef | Howard Bouchevereau
+centro-adultos.jpg | https://images.unsplash.com/photo-1573166953836-06864dc70a21 | Christina @ wocintechchat.com
+centro-familia.jpg | https://images.unsplash.com/photo-1752652011885-b0d36aeb3047 | Vitaly Gariev
+ani-bg.jpg | https://images.unsplash.com/photo-1713942590404-d6981e63fb56 | Vitaly Gariev

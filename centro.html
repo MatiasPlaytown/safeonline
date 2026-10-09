@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>SafeOnline — Centro de Seguridad</title>
+<meta name="description" content="Tu compañero de seguridad digital: alertas, consejos y microchecks para protegerte a ti y a tus hijos en internet.">
+<script>try{var t=localStorage.getItem('so_theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" type="image/png" href="assets/brand/favicon-64.png">
+<link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png">
+<meta name="theme-color" content="#f3f5f9">
+</head>
+<body>
+<header class="app-header">
+  <button class="back-btn js-back" type="button" data-fallback="index.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>Volver</button>
+</header>
+
+<main id="centro-container" class="page" style="padding-top:0">
+  <div id="centro-main"></div>
+</main>
+
+<nav class="app-nav" aria-label="Principal">
+  <div class="nav-top"><div class="brand-mark"><img class="brand-icon" src="assets/brand/logo-mark.png" alt="" aria-hidden="true"><div class="brand-logo">SafeOnline<small>DIGITAL GUARDIAN</small></div></div></div>
+  <div class="nav-links">
+    <a class="nav-item" id="nav-home" href="index.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5L12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1v-9.5z"/></svg><span>Inicio</span></a>
+    <a class="nav-item" id="nav-seguridad" href="seguridad.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.8l8 3v6c0 5-3.4 8.6-8 9.9-4.6-1.3-8-4.9-8-9.9v-6l8-3z"/><path d="M8.6 12.2l2.4 2.4 4.6-4.8"/></svg><span>Seguridad</span></a>
+    <a class="nav-item" id="nav-perfil" href="perfil.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.5-7 8-7s8 3 8 7"/></svg><span>Mi cuenta</span></a>
+  </div>
+  <div class="nav-bottom">
+    <a class="nav-user" href="perfil.html">
+      <div class="avatar sm js-avatar">S</div>
+      <div><p class="nav-user-name js-user-name">Mi cuenta</p><p class="nav-user-sub">Miembro Playtown</p></div>
+    </a>
+  </div>
+</nav>
+
+<script src="app-data.js"></script>
+<script src="content-seed.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
